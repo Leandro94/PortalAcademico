@@ -1,2 +1,4 @@
-PortalAcademico/node_modules/
-.DS_Store
+target
+tomcat.5000/
+tomcat.8080/
+/bin

@@ -1,0 +1,8 @@
+language: java
+deploy:
+  provider: heroku
+  api_key:
+    secure: 1b0c7c5d-070f-4f55-80af-4cb6e52bf048
+  app: shielded-noteb-7878
+  on:
+    repo: AndersonSFerreira/pi_7
