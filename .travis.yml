@@ -2,7 +2,7 @@ language: java
 deploy:
   provider: heroku
   api_key:
-    secure: 1b0c7c5d-070f-4f55-80af-4cb6e52bf048
-  app: shielded-noteb-7878
+    secure: 3f08c62d-780f-415c-a217-a9df0406332a
+  app: portalacademico
   on:
-    repo: AndersonSFerreira/pi_7
+    repo: Leandro94/PortalAcademico
